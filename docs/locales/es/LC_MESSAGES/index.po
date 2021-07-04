@@ -8,26 +8,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: helloWorld \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-20 14:57+0545\n"
+"POT-Creation-Date: 2021-07-04 22:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
-
-#: ../../index.rst:7
-msgid "Welcome to helloWorld's documentation!"
-msgstr "¡Bienvenido a la documentación de helloWorld!"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:9
 msgid "Contents:"
 msgstr "Contenidos:"
 
+#: ../../index.rst:7
+msgid "Welcome to helloWorld's documentation!"
+msgstr "¡Bienvenido a la documentación de helloWorld!"
+
 #: ../../index.rst:17
-msgid "Indices and tables"
-msgstr ""
+msgid "Indices with  tables"
+msgstr "Indicio y tablitas"
 
 #: ../../index.rst:19
 msgid ":ref:`genindex`"
@@ -40,4 +40,7 @@ msgstr ""
 #: ../../index.rst:21
 msgid ":ref:`search`"
 msgstr ""
+
+#~ msgid "Indices and tables"
+#~ msgstr ""
 
