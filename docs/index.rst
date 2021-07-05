@@ -13,8 +13,8 @@ Welcome to helloWorld's documentation!
    autodoc
 
 
-Indices with  tables
-====================
+Indices tables and more ...
+===========================
 
 * :ref:`genindex`
 * :ref:`modindex`
