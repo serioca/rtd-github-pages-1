@@ -27,7 +27,7 @@ msgstr "Benvenidos!"
 
 #: ../../index.rst:17
 msgid "Indices and tables"
-msgstr "aga toro"
+msgstr "aga torero!"
 
 #: ../../index.rst:19
 msgid ":ref:`genindex`"
