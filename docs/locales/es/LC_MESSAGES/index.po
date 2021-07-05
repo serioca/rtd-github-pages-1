@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: helloWorld \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-05 12:18+0200\n"
+"POT-Creation-Date: 2021-07-05 12:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,8 @@ msgid "Welcome to helloWorld's documentation!"
 msgstr "¡Bienvenido a la documentación de helloWorld!"
 
 #: ../../index.rst:17
-msgid "Indices tables and more ..."
+#, fuzzy
+msgid "Indices tables and som thing more ..."
 msgstr "aga toro!!!"
 
 #: ../../index.rst:19
